@@ -1,6 +1,6 @@
 # RFD4-Proteina Design Pipeline (Colab)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amiralito/RFD4_Proteina_Colab/blob/main/RFD4_Proteina_design_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amiralito/RFD4_Proteina_colab/blob/main/RFD4_Proteina_design_pipeline.ipynb)
 
 Binder and motif design on Google Colab with
 [RFD4-Proteina](https://github.com/RosettaCommons/RFD4-Proteina) (Baker Lab / IPD × NVIDIA
